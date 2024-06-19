@@ -1,3 +1,3 @@
 module.exports = register = (data) => {
-  return "Hello";
+  return "Hello Dev";
 };
