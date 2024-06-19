@@ -1,4 +1,5 @@
 const express = require("express");
+const notFound = require("./middlewares/not-found");
 const errorMiddleware = require("./middlewares/error-middleware");
 const app = express();
 
